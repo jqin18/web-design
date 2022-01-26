@@ -1,0 +1,23 @@
+.container img {
+    float: left;
+    width: 50%;
+  }
+
+.card-title_1{font-size: 30px;
+    font-weight: bold;
+    color: deepskyblue;
+
+}
+
+.card-title_2 {color:deepskyblue;
+font-size : 30px}
+
+.col-md-6 img {height: 300px;
+    width: fit-content;
+}
+
+.title {text-align:justify;
+    color:deepskyblue;}
+
+.container{color:deepskyblue;
+    font-size : 20px}
